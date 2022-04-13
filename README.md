@@ -11,5 +11,5 @@
  ![Encoder ](https://i.ibb.co/17kmjZ3/12.png)
 
  ### Simulation of PID controller operation in FlProg program
- ![PID  ](https://i.ibb.co/17kmjZ3/12.png)
+ ![PID  ](https://i.ibb.co/TRvCXFp/qwe.png)
   
