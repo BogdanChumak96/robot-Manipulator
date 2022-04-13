@@ -2,7 +2,7 @@
  ## COMPUTER-INTEGRATED MANAGEMENT SYSTEM ROBOT-MANIPULATOR
 
  ### Kinematic scheme
- ![scheme ](https://ibb.co/487tvcJ)
+ ![scheme ](https://i.ibb.co/17kmjZ3/12.png)
 
  ### The interface of the robot management program
  ![Interface ](https://ibb.co/hmy9w9f)
